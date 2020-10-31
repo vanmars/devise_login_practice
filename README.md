@@ -1,24 +1,11 @@
-# README
+# _Devise Authentication Practice_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_22 October 2020_
 
-Things you may want to cover:
+#### _Rails app with Devise authentication_
 
-* Ruby version
+#### By _**Vanessa Stewart**_
 
-* System dependencies
+## Description
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+_This is a project to practice setting up authentication with Devise and limiting routes to admin users only. I followed along with the following [tutorial](https://www.youtube.com/watch?v=jd1gOhpETIA)._
